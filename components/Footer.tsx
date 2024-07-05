@@ -39,7 +39,7 @@ const Footer = () => (
 
       <div className="footer__copyrights-link">
         <Link href="/" className="text-gray-500">
-          Privacy & Policy
+        This website is designed by Samson
         </Link>
         <Link href="/" className="text-gray-500">
           Terms & Condition
